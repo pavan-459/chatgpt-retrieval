@@ -1,1 +1,6 @@
 My dog's name is Sunny.
+supabase sucks .
+mongodb rules.
+chroma is alright
+redis is unknown
+Js is ever changing shit
